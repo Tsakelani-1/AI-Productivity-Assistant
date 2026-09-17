@@ -79,35 +79,3 @@ The project aims to:
 # 💡 Solution Overview
 
 The application provides a simple interface where the user selects a productivity tool, enters information, and receives a structured output.
-
-### Basic workflow
-
-```text
-User
-  │
-  ▼
-Select Productivity Tool
-  │
-  ├── Smart Email Generator
-  │
-  ├── Meeting Notes Summarizer
-  │
-  └── AI Task Planner / Scheduler
-  │
-  ▼
-Enter Workplace Information
-  │
-  ▼
-Structured Prompt
-  │
-  ▼
-AI-Assisted Processing
-  │
-  ▼
-Structured Output
-  │
-  ▼
-Human Review
-  │
-  ▼
-Final Workplace Use
