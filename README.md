@@ -3,14 +3,13 @@ AI-powered workplace assistant for email generation, meeting summaries, task pla
  1. Project objective
 This project is a practical AI-powered workplace assistant designed to automate common professional tasks while demonstrating effective AI use, prompt engineering, responsible AI practices, and practical productivity value.
 
-The project brief requires at least **three** core features. This solution demonstrates **all five**:
+The project brief requires at least **three** core features. 
 1. Smart Email Generator
 2. Meeting Notes Summarizer
 3. AI Task Planner / Scheduler
-4. AI Research Assistant
-5. AI Chatbot Interface
 
-The brief describes the core goal as solving real-world workplace problems with AI. fileciteturn8file0L17-L37
+
+The brief describes the core goal as solving real-world workplace problems with AI. 
 
 ## 2. How to run the prototype
 ```bash
@@ -28,7 +27,7 @@ The project uses a reusable framework:
 
 **Role → Task → Context → Constraints → Output → Quality check**
 
-Prompt templates are provided in `prompts/`. The approach reflects the brief's emphasis on designing, testing and refining effective prompts and comparing outputs for accuracy. fileciteturn8file0L67-L77
+Prompt templates are provided in `prompts/`. The approach reflects the brief's emphasis on designing, testing and refining effective prompts and comparing outputs for accuracy. 
 
 ## 5. Responsible AI
 The prototype encourages:
